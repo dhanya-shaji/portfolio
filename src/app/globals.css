@@ -65,7 +65,7 @@ section {
 .card {
   border: 1px solid color-mix(in oklab, var(--foreground) 14%, transparent);
   border-radius: 16px;
-  padding: 20px;
+  padding: 40px;
   background: color-mix(in oklab, var(--background) 94%, var(--foreground));
 }
 

@@ -45,9 +45,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="max-w-5xl mx-auto px-6 py-4 flex justify-end">
+        {/* <div className="max-w-5xl mx-auto px-6 py-4 flex justify-end">
           <ThemeToggle />
-        </div>
+        </div> */}
         {children}
       </body>
     </html>
