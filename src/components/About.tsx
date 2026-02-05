@@ -42,7 +42,7 @@ const About: React.FC = () => {
           transition={{ duration: 0.6, ease: "easeOut", delay: 0.3 }}
         >
           <img
-            src="/profile.jpg"
+            src="/profile.PNG"
             alt="Dhanya Shaji"
             className="w-44 h-44 md:w-56 md:h-56 rounded-2xl object-cover shadow-2xl border border-gray-500 hover:scale-105 transition-transform duration-300"
           />
