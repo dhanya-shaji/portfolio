@@ -51,6 +51,11 @@ const projects: Project[] = [
   description:
     "Developed and enhanced a smart access control mobile application for organizations, enabling employees to automatically open authorized doors via the app. Implemented offline-first support using SQLite and Redux, ensuring seamless access even in low-connectivity environments.",
   technologies: ["React Native", "Redux", "SQLite"],
+},
+  {
+  name: "Chickings",
+  description: "Developed an order management application for Chickings outlets.",
+  technologies: ["React.js", "Redux", "Node.js", "MySQL"],
 }
 
 ];
